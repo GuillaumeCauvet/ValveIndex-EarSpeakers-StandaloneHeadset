@@ -9,3 +9,4 @@ Needed :
 - Valve Index ear speakers
 - 10mm Pogo pins
 - Any 50W + 50W Audio amplifier 
+- Foam tape
