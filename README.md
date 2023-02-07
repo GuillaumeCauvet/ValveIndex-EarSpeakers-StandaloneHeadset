@@ -1,4 +1,4 @@
-# ValveIndex-EarSpeakers-StandaloneHeadset
+# DIY Valve Index Ear Speakers Standalone Headset
 
 Reusing the Valve Index ear speakers as a standalone audio headset
 
@@ -6,5 +6,6 @@ Reusing the Valve Index ear speakers as a standalone audio headset
 ![FURvvktWYAItjEp](https://user-images.githubusercontent.com/31934363/217342655-6dfe9df6-ae76-4499-8465-d1a2941e5cfb.jpg)
 
 Needed :
+- Valve Index ear speakers
 - 10mm Pogo pins
 - Any 50W + 50W Audio amplifier 
